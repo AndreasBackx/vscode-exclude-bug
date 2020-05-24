@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "cmd"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "cmd": true
+        }
+    }
+}
